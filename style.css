@@ -1,0 +1,56 @@
+body {
+    background-image: url(assets/bolinhaGalaxia.png);
+    color: white;
+}
+    
+h1 {
+    width: 500px;
+    margin: 0 auto;
+    /* text-align: center; */
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.nav-bar {
+    align-items: center;
+    background-color: black;
+    background-image: url(assets/galaxiaUniverso.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    justify-content: space-around;
+    width: 100%;
+}
+
+form {
+    margin: 0 auto;
+    padding: 50px;
+}
+
+iframe {
+    display: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    /* height: 0px; */
+    margin: 0 auto;
+}
+
+.imagem {
+    height: 360px;
+}
+
+
